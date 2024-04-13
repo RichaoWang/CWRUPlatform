@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea
+datas/videos
+.vs
+model/bk/
+dist
+build
+models
+cwru_code
